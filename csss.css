@@ -1,0 +1,45 @@
+html {
+    background-color: lightslategray;
+}
+body {
+    margin: auto;
+    max-width: 600px;
+    height: 600px;
+    background-color: azure;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+div{
+    border-width: 1px;
+    border-style: solid;
+    border-color: purple;
+    border-radius: 5px;
+
+}
+#billy{
+    color: darkred;
+
+}
+#bob{
+    color: darkgreen;
+
+}
+
+.three{
+    font-size: smaller;
+
+}
+.two{
+    font-size: larger;
+}
+
+.Rasmus
+{
+    text-decoration: line-through;
+}
+.jag{
+text-decoration: overline underline;
+   color:  orange;
+}
